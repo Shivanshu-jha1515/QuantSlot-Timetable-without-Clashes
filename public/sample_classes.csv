@@ -1,0 +1,31 @@
+id,name,teacher,group,room
+1,Quantum Mechanics I,Dr. Aris Thorne,PHYS-301,Lab 101
+2,Linear Algebra,Prof. Elena Vance,MATH-202,Hall A
+3,Classical Electrodynamics,Dr. Aris Thorne,PHYS-301,Lab 101
+4,Data Structures & Algorithms,Dr. Marcus Chen,CS-201,Lab 302
+5,Quantum Computing,Prof. Elena Vance,CS-401,Hall B
+6,Organic Chemistry,Dr. Sophia Miller,CHEM-101,ChemLab
+7,Discrete Mathematics,Prof. Elena Vance,CS-201,Hall A
+8,Statistical Mechanics,Dr. Aris Thorne,PHYS-301,Hall B
+9,Operating Systems,Dr. Marcus Chen,CS-301,Lab 302
+10,Inorganic Chemistry,Dr. Sophia Miller,CHEM-101,ChemLab
+11,Computer Architecture,Dr. Marcus Chen,CS-201,Hall C
+12,Calculus III,Prof. Elena Vance,MATH-202,Hall A
+13,Biochemistry,Dr. Sophia Miller,BIO-201,ChemLab
+14,Thermodynamics,Dr. Aris Thorne,MECH-201,Hall B
+15,Artificial Intelligence,Dr. Marcus Chen,CS-401,Lab 302
+16,Differential Equations,Prof. David Clark,MATH-202,Hall C
+17,Modern Physics,Dr. Aris Thorne,PHYS-201,Lab 101
+18,Compiler Design,Dr. Marcus Chen,CS-301,Lab 302
+19,Physical Chemistry,Dr. Sophia Miller,CHEM-201,ChemLab
+20,Number Theory,Prof. Elena Vance,MATH-301,Hall A
+21,Digital Logic Design,Prof. David Clark,EE-101,Lab 201
+22,Solid State Physics,Dr. Aris Thorne,PHYS-301,Lab 101
+23,Database Systems,Dr. Rachel Green,CS-201,Lab 302
+24,Machine Learning,Dr. Rachel Green,CS-401,Hall B
+25,Molecular Biology,Dr. Sarah Jenkins,BIO-201,ChemLab
+26,Signals & Systems,Prof. David Clark,EE-201,Lab 201
+27,Robotics & Control,Prof. David Clark,MECH-301,Hall C
+28,Genetics & Genomics,Dr. Sarah Jenkins,BIO-201,ChemLab
+29,Computer Networks,Dr. Rachel Green,CS-301,Lab 302
+30,Complex Analysis,Prof. David Clark,MATH-301,Hall A

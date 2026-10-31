@@ -1,0 +1,6 @@
+{
+  "name": "QuantSlot - Quantum Timetable Optimizer",
+  "description": "Quantum-inspired timetable optimizer for schools and colleges: from 18 clashes to zero, in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
